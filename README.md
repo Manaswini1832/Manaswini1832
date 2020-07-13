@@ -9,6 +9,6 @@
 - ✍ I write Tech articles [here.](https://dev.to/thisismanaswini)
 - ✔  I can help with HTML, CSS, JavaScript, GSAP, MERN
 - ✔  I can code in C and Python too 
-- 📫 How to reach me: [Twitter](https://twitter.com/thisismanaswini), [Email](munugurimanaswini1832@gmail.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/thisismanaswini), [Email](https://munugurimanaswini1832@gmail.com)
 - 😄 Pronouns: She/ Her
 

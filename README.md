@@ -11,7 +11,3 @@
 - ✔  I can code in C and Python too 
 - 📫 How to reach me: [Twitter](https://twitter.com/thisismanaswini), [Email](https://munugurimanaswini1832@gmail.com)
 - 😄 Pronouns: She/ Her
-
----
-### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/Manaswini1832/count.svg)

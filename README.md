@@ -1,5 +1,3 @@
-[![Manaswini's Social banner](https://github.com/Manaswini1832/Manaswini1832/blob/master/assets/Landing%20page.svg)](https://twitter.com/thisismanaswini)
-
 ### Hello 👋 I'm Manaswini😊
 
 - 🔎 I’m working on Web development

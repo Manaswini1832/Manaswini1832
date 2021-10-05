@@ -1,7 +1,7 @@
-### Hello 👋 I'm Manaswini😊
+### Hello I'm Manaswini!
 
-- 🔎 I’m working on Web development
-- 💚 I love GSAP & CSS art
-- 💻 I'm planning to dive into Machine learning soon!
-- ✔  I can help with HTML, CSS, JavaScript, GSAP, MERN
-- ✔  I can code in C, C++ and Python too 
+- I'm a 3rd year Electrical engineering undergrad at IIT Madras
+- Been working on my web dev skills since April 2020
+- I can help with HTML, CSS, JS, MERN stack, Postgres, Firebase
+- Currently testing the waters before I jump on the Data Science bandwagon
+- Learning data structures & algorithms, Verilog too
